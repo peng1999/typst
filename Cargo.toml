@@ -114,7 +114,7 @@ unscanny = "0.1"
 ureq = "2"
 usvg = { version = "0.36", default-features = false, features = ["text"] }
 walkdir = "2"
-wasmi = "0.31.0"
+wasmtime = "*"
 xmlparser = "0.13.5"
 xmlwriter = "0.1.0"
 xmp-writer = "0.2"
